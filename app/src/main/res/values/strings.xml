@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">CountryQuiz</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="game_drawer_item">Game</string>
+    <string name="statistics_drawer_item">Statistics</string>
+    <string name="count_of_guessed_places">Count of guessed places</string>
+    <string name="count_of_not_guessed_places">Count of not guessed places</string>
+    <string name="statistics">Statistics</string>
+    <string name="not_right_text">Disgusting! You are not right!</string>
+    <string name="yoy_are_right">Congratulations! You are right!</string>
+    <string name="clear_statistics">Clear statistics</string>
+</resources>
